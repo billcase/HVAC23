@@ -1,0 +1,5 @@
+- cập nhật tools vẽ mặt bích
+- cập nhật tools vẽ ống 1 net
+- cập nhật lệnh ddline vẽ ống gió. thêm tính năng tự chia ống gió theo kích thước tiêu chuẩn
+- cập nhật lệnh vẽ ống qq1 và qq2, vẽ ống PVC và PPR tự động chèn phụ kiện.
+- cập nhật tiện ích đếm mline
