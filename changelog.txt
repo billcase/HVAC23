@@ -1,5 +1,10 @@
 - cập nhật tools vẽ mặt bích
 - cập nhật tools vẽ ống 1 net
-- cập nhật lệnh ddline vẽ ống gió. thêm tính năng tự chia ống gió theo kích thước tiêu chuẩn
-- cập nhật lệnh vẽ ống qq1 và qq2, vẽ ống PVC và PPR tự động chèn phụ kiện.
-- cập nhật tiện ích đếm mline
+- cập nhật tools vẽ ống gió. tối ưu để vẽ nhanh hơn
+- cập nhật phụ kiến PPR và PVC cho lệnh QQ1 và QQ2
+- cập nhật lệnh đếm mline (tml) thêm lọc theo scale và kết quả đếm tách layer.
+- cập nhật thư viện ống C-PVC
+- Cập nhật DIM tool. tối ưu lại tạo dim style theo tiêu chuẩn in ra A3 theo từng tỉ lệ.
+- cập nhật chuyển bảng tính từ xcel vào autocad và ngược lại.
+- bổ sung lệnh DD3 (tương tự lênh DD1, DD2 điểm khác DD3 sử dụng DIM). thống kê đoạn thẳng theo điểm pick chuột.
+- bổ sung lệnh EW  chỉnh sửa text đa năng. sửa trực tiếp được trong block kể cả block thuộc tính.
