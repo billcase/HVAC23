@@ -11,3 +11,4 @@
 - bổ sung lệnh ww1 lấy layer của đối tượng chọn thành layer hiện hành
 - bổ sung lệnh ww2 chuyển mọi đối tượng được chọn vào layer hiện hành
 - qdb dim nhanh tại basepoint block được chọn
+- lệnh xlay: chuyển đối tượng con trong block sang layer hiện hành
