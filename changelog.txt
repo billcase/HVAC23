@@ -1,14 +1,17 @@
 - cập nhật tools vẽ mặt bích
 - cập nhật tools vẽ ống 1 net
-- cập nhật tools vẽ ống gió. tối ưu để vẽ nhanh hơn
-- cập nhật phụ kiến PPR và PVC cho lệnh QQ1 và QQ2
-- cập nhật lệnh đếm mline (tml) thêm lọc theo scale và kết quả đếm tách layer.
-- cập nhật thư viện ống C-PVC
+- cập nhật tools vẽ ống gió. tối ưu để vẽ nhanh hơn 
+- CVD tự động chia ống gió dưới dạng block để thuận tiện thống kê khối lượng. 
+- bổ sung vào ddline vẽ ống gió tự động chia theo kích thước tiêu chuẩn.
 - Cập nhật DIM tool. tối ưu lại tạo dim style theo tiêu chuẩn in ra A3 theo từng tỉ lệ.
+- qdb dim nhanh tại basepoint block được chọn
+- cập nhật phụ kiến PPR và PVC cho lệnh QQ1, QQ2 và QQ3 (3 Lệnh vẽ ống sắt, pvc, ppr tự động nhận diện để chèn phụ kiện)
+- cập nhật lệnh đếm mline (tml) thêm lọc theo scale và kết quả đếm tách layer.
+- cập nhật thư viện ống C-PVC.
 - cập nhật chuyển bảng tính từ xcel vào autocad và ngược lại.
 - bổ sung lệnh DD3 (tương tự lênh DD1, DD2 điểm khác DD3 sử dụng DIM). thống kê đoạn thẳng theo điểm pick chuột.
 - bổ sung lệnh EW  chỉnh sửa text đa năng. sửa trực tiếp được trong block kể cả block thuộc tính.
 - bổ sung lệnh ww1 lấy layer của đối tượng chọn thành layer hiện hành
 - bổ sung lệnh ww2 chuyển mọi đối tượng được chọn vào layer hiện hành
-- qdb dim nhanh tại basepoint block được chọn
 - lệnh xlay: chuyển đối tượng con trong block sang layer hiện hành
+- và 1 số lệnh khác...
