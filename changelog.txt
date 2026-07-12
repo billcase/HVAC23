@@ -11,7 +11,8 @@
 - cập nhật chuyển bảng tính từ xcel vào autocad và ngược lại.
 - bổ sung lệnh DD3 (tương tự lênh DD1, DD2 điểm khác DD3 sử dụng DIM). thống kê đoạn thẳng theo điểm pick chuột.
 - bổ sung lệnh EW  chỉnh sửa text đa năng. sửa trực tiếp được trong block kể cả block thuộc tính.
-- bổ sung lệnh ww1 lấy layer của đối tượng chọn thành layer hiện hành
-- bổ sung lệnh ww2 chuyển mọi đối tượng được chọn vào layer hiện hành
-- lệnh xlay: chuyển đối tượng con trong block sang layer hiện hành
+- bổ sung lệnh ww1 lấy layer của đối tượng chọn thành layer hiện hành.
+- bổ sung lệnh ww2 chuyển mọi đối tượng được chọn vào layer hiện hành.
+- lệnh xlay: chuyển đối tượng con trong block sang layer hiện hành.
+- thêm lệnh update-check để kiểm tra bản cập nhật nếu có.
 - và 1 số lệnh khác...
