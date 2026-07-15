@@ -1,15 +1,14 @@
-- cập nhật tools vẽ mặt bích
-- cập nhật tools vẽ ống 1 net
-- cập nhật tools vẽ ống gió. tối ưu để vẽ nhanh hơn 
-- CVD tự động chia ống gió dưới dạng block để thuận tiện thống kê khối lượng. 
-- bổ sung vào ddline vẽ ống gió tự động chia theo kích thước tiêu chuẩn.
-- Cập nhật DIM tool. tối ưu lại tạo dim style theo tiêu chuẩn in ra A3 theo từng tỉ lệ.
-- qdb dim nhanh tại basepoint block được chọn
-- cập nhật phụ kiến PPR và PVC cho lệnh QQ1, QQ2 và QQ3 (3 Lệnh vẽ ống sắt, pvc, ppr tự động nhận diện để chèn phụ kiện)
-- cập nhật lệnh đếm mline (tml) thêm lọc theo scale và kết quả đếm tách layer.
-- cập nhật thư viện ống C-PVC.
-- cập nhật chuyển bảng tính từ xcel vào autocad và ngược lại.
-- bổ sung lệnh DD3 (tương tự lênh DD1, DD2 điểm khác DD3 sử dụng DIM). thống kê đoạn thẳng theo điểm pick chuột.
-- bổ sung lệnh EW  chỉnh sửa text đa năng. sửa trực tiếp được trong block kể cả block thuộc tính.
-- thêm lệnh update-check để kiểm tra bản cập nhật nếu có.
-- và 1 số lệnh khác...
+Changelog / Update Notes:
+- Flange & Single-line Pipe Tool: Updated.
+- Ductwork Tool: Optimized for faster drawing. Added automatic duct segmenting into blocks (CVD) to facilitate automated quantity take-offs (QTO).
+- Ductline (DDline): Added functionality for automatic duct segmentation based on standard manufacturing sizes.
+- DIM Tool: Updated. Optimized for creating Dimension Styles that comply with A3 printing standards across various scales.
+- QDB: Added "Quick Dimension at Block Point" feature for rapid dimensioning at the basepoint of selected blocks.
+- PPR & PVC Fittings: Updated support for QQ1, QQ2, and QQ3 commands. These commands now automatically identify pipe types (Steel, PVC, PPR) and insert the corresponding fittings.
+- TML (Mline Counter): Updated with additional configuration options.
+- New Commands Added: TKB,BlockUnits: Manage block unit settings, SCI, WI1: Create Wipeout, TDM, KHBV..)
+- Excel Integration: Updated the import/export functionality for tables between Excel and AutoCAD.
+- DD3 Command: Added (similar to DD1 and DD2, but uses DIM). Generates statistics/take-offs for lines based on picked points.
+- EW Command: Added versatile text editing functionality. Allows direct editing of text, even within blocks and attribute blocks.
+- Update-Check: Added a command to check for available software updates.
+- And various other minor improvements.
