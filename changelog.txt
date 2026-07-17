@@ -6,7 +6,7 @@ Changelog / Update Notes:
 - QDB: Added "Quick Dimension at Block Point" feature for rapid dimensioning at the basepoint of selected blocks.
 - PPR & PVC Fittings: Updated support for QQ1, QQ2, and QQ3 commands. These commands now automatically identify pipe types (Steel, PVC, PPR) and insert the corresponding fittings.
 - TML (Mline Counter): Updated with additional configuration options.
-- New Commands Added: TKB,BlockUnits: Manage block unit settings, SCI, WI1: Create Wipeout, TDM, KHBV..)
+- New Commands Added: TKB: Ccount att block and other..., BlockUnits: Manage block unit settings, SCI, WI1: Create Wipeout,KHBV..)
 - Excel Integration: Updated the import/export functionality for tables between Excel and AutoCAD.
 - DD3 Command: Added (similar to DD1 and DD2, but uses DIM). Generates statistics/take-offs for lines based on picked points.
 - EW Command: Added versatile text editing functionality. Allows direct editing of text, even within blocks and attribute blocks.
