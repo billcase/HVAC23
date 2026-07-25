@@ -1,4 +1,6 @@
 Changelog / Update Notes:
-cập nhật thư viện phụ kiện ống thép, ống PVC, PPR
-thay đổ lệnh đếm block "count" sang "countblk" (fix trùng lệnh của autocad 2026,2027)
-fix 1 số lỗi trên lệnh qq1, qq2, qq3
+Updated the steel, PVC, and PPR pipe fittings library.
+Changed the block counting command from "count" to "countblk" (to fix a command conflict with AutoCAD 2026 and 2027).
+Fixed the reducer insertion bug when drawing from a smaller size to a larger size using commands qq1, qq2, and qq3.
+Updated the "des" command for copying spreadsheets from Excel into AutoCAD.
+Fixed errors in the "tab2excel" and "TabEpr" commands when copying tables from AutoCAD to Excel.
