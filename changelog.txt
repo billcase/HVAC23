@@ -1,6 +1,6 @@
 Changelog / Update Notes:
-Updated the steel, PVC, and PPR pipe fittings library.
+Updated the steel, PVC, and PPR pipe fittings library and fix error "CBB".
 Update "T2 & T4" draw cable tray and ftting.
 Update "LXX" Block insert tool for electric light.
 Add "dimcut" auto dim by cross line p1-p2.
-Add "ww1 & ww2" select an object and set it's layer ascurrent & select object and move it to current layer.
+Add "ww1 & ww2" select an object and set it's layer as current & select object and move it to current layer.
