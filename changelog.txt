@@ -1,5 +1,5 @@
 Changelog / Update Notes:
 Add "rhm" auto insert mline pipe hanger.
 Add "ee" draw conduit PVC pipe with mline 1 line
-Add "emr" fillet mline (for command "ee"
-Add "chb" auto insert electric box (draw with command "ee"
+Add "emr" fillet mline (for command "ee")
+Add "chb" auto insert electric box (draw with command "ee")
