@@ -39,8 +39,10 @@ updates.
 3. 08/08/2026
 
 • Updated the steel, PVC, and PPR pipe fittings library.
-• Update "PRT" smart plot (Added automatic detection of print frames on layouts for printing, and automatic PDF merging after printing (select as .pc3 or .pc5 PDF printer).
-• Fix lệnh "s1, s2, s3, r1, r2, r3" LISP routine for drawing flexible piping (improves drawing speed and adds a 20-meter maximum length limit).
+• Update "PRT" smart plot (Added automatic detection of print frames on layouts for printing, 
+  and automatic PDF merging after printing (select as .pc3 or .pc5 PDF printer).
+• Fix lệnh "s1, s2, s3, r1, r2, r3" LISP routine for drawing flexible piping 
+  (improves drawing speed and adds a 20-meter maximum length limit).
 • Add "CBK" LISP routine to insert a block at a specified spacing between two points selected on the screen.
 
 4. 12/09/2026
