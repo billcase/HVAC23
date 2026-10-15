@@ -1,0 +1,60 @@
+Changelog / Update Notes:
+1. 16/07/2026
+
+• Flange & Single-line Pipe Tool: Updated.
+• Ductwork Tool: Optimized for faster drawing. Added automatic duct segmenting into
+blocks (CVD) to facilitate automated quantity take-offs (QTO).
+• Ductline (DDline): Added functionality for automatic duct segmentation based on
+standard manufacturing sizes.
+• DIM Tool: Updated. Optimized for creating Dimension Styles that comply with A3
+printing standards across various scales.
+• QDB: Added "Quick Dimension at Block Point" feature for rapid dimensioning at the
+basepoint of selected blocks.
+• STEEL, PPR & PVC Fittings: Updated support for QQ1, QQ2, and QQ3 commands.
+These commands now automatically identify pipe types (Steel, PVC, PPR) and insert
+the corresponding fittings.
+• TML (Mline Counter): Updated with additional configuration options.
+• New Commands Added:
+o TKB: Count att block and other block
+o BlockUnits: Manage block unit settings.
+o SCI: scale multi object
+o WI1: Create Wipeout.
+• Excel Integration: Updated the import/export functionality for tables between Excel
+and AutoCAD.
+• DD3 Command: Added (similar to DD1 and DD2, but uses DIM). Generates
+statistics/take-offs for lines based on picked points.
+• EW Command: Added versatile text editing functionality. Allows direct editing of text,
+even within blocks and attribute blocks.
+• Update-Check: Added a command to automatically check for available software
+updates.
+
+2. 25/07/2026
+
+• Updated the steel, PVC, and PPR pipe fittings library.
+• Changed the block counting command from "count" to "countblk" (to fix a command conflict with AutoCAD 2026 and 2027).
+• Fixed the reducer insertion bug when drawing from a smaller size to a larger size using commands qq1, qq2, and qq3.
+• Updated the "des" command for copying spreadsheets from Excel into AutoCAD.
+• Fixed errors in the "tab2excel" and "TabEpr" commands when copying tables from AutoCAD to Excel.
+
+3. 08/08/2026
+
+• Updated the steel, PVC, and PPR pipe fittings library.
+• Update "PRT" smart plot (Added automatic detection of print frames on layouts for printing, and automatic PDF merging after printing (select as .pc3 or .pc5 PDF printer).
+• Fix lệnh "s1, s2, s3, r1, r2, r3" LISP routine for drawing flexible piping (improves drawing speed and adds a 20-meter maximum length limit).
+• Add "CBK" LISP routine to insert a block at a specified spacing between two points selected on the screen.
+
+4. 12/09/2026
+
+Changelog / Update Notes:
+Updated the steel, PVC, and PPR pipe fittings library and fix error "CBB".
+Update "T2 & T4" draw cable tray and ftting.
+Update "LXX" Block insert tool for electric light.
+Add "dimcut" auto dim by cross line p1-p2.
+Add "ww1 & ww2" select an object and set it's layer as current & select object and move it to current layer.
+
+5. 15/10/2026
+
+Add "rhm" auto insert mline pipe hanger.
+Add "ee" draw conduit PVC pipe with mline 1 line
+Add "emr" fillet mline (for command "ee"
+Add "chb" auto insert electric box (draw with command "ee"
