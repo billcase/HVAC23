@@ -43,9 +43,10 @@ Update "LXX" Block insert tool for electric light.
 Add "dimcut" auto dim by cross line p1-p2.
 Add "ww1 & ww2" select an object and set it's layer as current & select object and move it to current layer.
 
-5. 15/10/2026
+5. 17/10/2026
 
+Updated the HVAC23 feature to allow for automatic installation within ZWCAD; simply load the "loadmenu" file using the `APPLOAD` command.
 Add "rhm" auto insert mline pipe hanger.
 Add "ee" draw conduit PVC pipe with mline 1 line
-Add "emr" fillet mline (for command "ee")
-Add "chb" auto insert electric box (draw with command "ee")
+Add "emr" fillet mline (for command "ee"
+Add "chb" auto insert electric box (draw with command "ee"
