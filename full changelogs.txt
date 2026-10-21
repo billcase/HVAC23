@@ -45,8 +45,8 @@ Add "ww1 & ww2" select an object and set it's layer as current & select object a
 
 5. 17/10/2026
 
-Updated the HVAC23 feature to allow for automatic installation within ZWCAD; simply load the "loadmenu" file using the `APPLOAD` command.
+Updated the HVAC feature to allow for automatic installation within CAD.
 Add "rhm" auto insert mline pipe hanger.
 Add "ee" draw conduit PVC pipe with mline 1 line
-Add "emr" fillet mline (for command "ee"
-Add "chb" auto insert electric box (draw with command "ee"
+Add "fmr" "fm" fillet mline (for command "ee")
+Add "chb" auto insert electric box (draw with command "ee")
