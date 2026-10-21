@@ -2,5 +2,5 @@ Changelog / Update Notes:
 Updated the HVAC feature to allow for automatic installation within CAD.
 Add "rhm" auto insert mline pipe hanger.
 Add "ee" draw conduit PVC pipe with mline 1 line
-Add "emr" fillet mline (for command "ee")
+Add "fmr" "fm" fillet mline (for command "ee")
 Add "chb" auto insert electric box (draw with command "ee")
