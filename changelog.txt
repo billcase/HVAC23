@@ -4,3 +4,4 @@ Add "rhm" auto insert mline pipe hanger.
 Add "ee" draw conduit PVC pipe with mline 1 line
 Add "fmr" "fm" fillet mline (for command "ee")
 Add "chb" auto insert electric box (draw with command "ee")
+Add "bvalve" gate valve and globe valve 10k, 20k (black steel)
