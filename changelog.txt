@@ -3,3 +3,4 @@
 - If you are currently using version 2026.1710, please uninstall it and download the new version for installation via this link: https://bit.ly/hvac15
 - This update solely modifies the directory structure of the HVAC15 LISP suite.
 - Add command "xemlog" for a view logs feature has been added, allowing you to track version updates.
+- Add command "xemlog" for a view logs feature has been added, allowing you to track version updates.
