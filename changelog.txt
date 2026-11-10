@@ -1,7 +1,5 @@
-Changelog / Update Notes:
-Updated the HVAC feature to allow for automatic installation within CAD.
-Add "rhm" auto insert mline pipe hanger.
-Add "ee" draw conduit PVC pipe with mline 1 line
-Add "fmr" "fm" fillet mline (for command "ee")
-Add "chb" auto insert electric box (draw with command "ee")
-Add "bvalve" gate valve and globe valve 10k, 20k (black steel)
+cập nhật ngày 10/11/2026
+- ở phiên bản 2026.1710 do nhiều bạn báo không tương thích với 1 số đời cad. Bản này đưa lại về cấu trúc cũ "C:/HVAC15" 
+- Ai đang ở phiên bản "2026.1710" đề nghị gỡ bỏ. lên load lại bản mới để cài đặt link: https://bit.ly/hvac15
+- Bản này chỉ cập nhật lại cấu trúc của bộ lisp HVAC15. 
+- bổ sung "xemlogs" để các bạn có thể theo dõi các phiên bản cập nhật.
