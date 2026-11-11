@@ -55,6 +55,7 @@ Add "bvalve" gate valve and globe valve 10k, 20k (black steel)
 6. 10/11/2026
 
 - In version 2026.1710, several users reported compatibility issues with certain versions of CAD. This release reverts to the original directory structure: "C:/HVAC15".
-- If you are currently using version 2026.1710, please uninstall it and download the new version for installation via this link: https://bit.ly/hvac15
+- If you are currently using version 2026.1710, please uninstall it and download the new version for installation via this link: https://bit.ly/hvac15 (only for Autocad)
 - This update solely modifies the directory structure of the HVAC15 LISP suite.
 - Add command "xemlog" for a view logs feature has been added, allowing you to track version updates.
+- fix error ISOTOOLS.
