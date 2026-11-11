@@ -1,0 +1,2 @@
+- Add command "xemlog" for a view logs feature has been added, allowing you to track version updates.
+- fix error ISOTOOL.
