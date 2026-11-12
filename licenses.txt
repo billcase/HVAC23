@@ -1,0 +1,4 @@
+; DANH SÁCH CẤP PHÉP HOOKUP ISO TOOLKIT
+A1B2-C3D4 ; Máy anh Bách (PC Nhà)
+7286-EF38 ; Máy anh Bách (Laptop)
+9876-5432 ; Máy kỹ sư Tuấn - Dự án A
