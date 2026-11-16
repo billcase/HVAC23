@@ -59,3 +59,8 @@ Add "bvalve" gate valve and globe valve 10k, 20k (black steel)
 - This update solely modifies the directory structure of the HVAC15 LISP suite.
 - Add command "xemlog" for a view logs feature has been added, allowing you to track version updates.
 - fix error ISOTOOLS.
+
+7. 16/11/2026
+
+- Add command "QQ4" for draw HDPE pipe auto insert fitting.
+- Add command "CDD" insert block HDPE.
