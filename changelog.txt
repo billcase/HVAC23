@@ -5,3 +5,6 @@
 - This update solely modifies the directory structure of the HVAC15 LISP suite.
 - Add command "xemlog" for a view logs feature has been added, allowing you to track version updates.
 - Fix error ISOTOOLS.
+- Add command "QQ4" for draw HDPE pipe auto insert fitting.
+- Add command "CDD" insert block HDPE.
+- Fix qq1, qq2, qq3
