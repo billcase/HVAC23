@@ -1,2 +1,3 @@
 - Add command "QQ4" for draw HDPE pipe auto insert fitting.
 - Add command "CDD" insert block HDPE.
+- Fix qq1, qq2, qq3
