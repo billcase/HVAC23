@@ -1,4 +1,4 @@
-* UPDATE 17-10-2026
+* UPDATE 10-11-2026
 - In version 2026.1710, several users reported compatibility issues with certain versions of CAD. 
 - This release reverts to the original directory structure: "C:/HVAC15".
 - If you are currently using version 2026.1710, please uninstall it and download the new version for installation via this link: https://bit.ly/hvac15
